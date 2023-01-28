@@ -81,7 +81,7 @@ footer:
       - '[GitHub](https://github.com/Frederick-X)'
   content: | # 支持 Markdown 格式
     This site is created by [@Jeffro](/) using [Stellar](https://github.com/xaoxuu/hexo-theme-stellar) theme.
-    Except for special statements, all articles on this site licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), please cite if you intend to reproduce.
+    The articles on this site are all licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), please cite if you intend to reproduce.
   # 主题用户越多，开发者维护和更新的积极性就越高，如果您喜欢本主题，请在适当的位置显示主题信息和仓库链接以表支持。
   source: '[GitHub](https://github.com/Frederick-X/x.wwweb3.net/)'
 
