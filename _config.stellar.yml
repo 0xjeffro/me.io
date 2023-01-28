@@ -91,6 +91,10 @@ style:
   codeblock:
     scrollbar: 0px
 
+  font-family:
+    body: '"Inter", sans-serif'
+    # body: '"Lora", serif'
+
 ####### JS Plugins ########
 plugins:
   ## required plugins ##
