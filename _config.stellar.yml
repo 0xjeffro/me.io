@@ -25,10 +25,10 @@ article:
     # '机器人': '#e91e63'
     'Utility Tools': '#009688'
   license: 'This article is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), please cite if you intend to reproduce.'
-  share: [email, link]
+  share: [link, wechat, weibo]
   related_posts:
     enable: false
-    auto_cover: true
+    auto_cover: false
 
   
 
