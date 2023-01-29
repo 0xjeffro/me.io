@@ -90,6 +90,8 @@ footer:
 style:
   codeblock:
     scrollbar: 0px
+  
+  text-align: justify # justify/left/center/right
 
   font-family:
     body: '"LXGW WenKai Screen", sans-serif'
