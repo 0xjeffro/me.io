@@ -54,17 +54,21 @@ comments:
 footer:
   social:
     github:
-      icon: '<img src="https://fastly.jsdelivr.net/gh/cdn-x/placeholder@1.0.3/social/08a41b181ce68.svg"/>'
-      url: https://github.com/Frederick-X
-    music:
-      icon: '<img src="https://fastly.jsdelivr.net/gh/cdn-x/placeholder@1.0.3/social/3845874.svg"/>'
-      url: https://music.163.com/#/user/home?id=63035382
-    unsplash:
-      icon: '<img src="https://fastly.jsdelivr.net/gh/cdn-x/placeholder@1.0.3/social/3616429.svg"/>'
-      url: https://unsplash.com/@xaoxuu
-    comments:
-      icon: '<img src="https://fastly.jsdelivr.net/gh/cdn-x/placeholder@1.0.3/social/942ebbf1a4b91.svg"/>'
-      url: /about/#comments
+      icon: '<img src="asserts/social/github2.svg"/>'
+      url: https://github.com/JeffroTanvik
+    Telegram:
+      icon: '<img src="asserts/social/telegram-original.svg"/>'
+      url: https://t.me/JeffroTanvik
+    twitter:
+      icon: '<img src="asserts/social/twitter.svg"/>'
+      url: https://twitter.com/JeffroTanvik
+    # gmail:
+    #   icon: '<img src="asserts/social/gmail.svg"/>'
+    #   url: https://twitter.com/JeffroTanvik
+    spotify:
+      icon: '<img src="asserts/social/spotify.svg"/>'
+      url: https://open.spotify.com/playlist/37i9dQZF1DWZd79rJ6a7lp?si=b8374656777c4a00
+    
   sitemap:
     'Blog':
       - '[Recent](/)'
