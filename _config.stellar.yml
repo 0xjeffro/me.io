@@ -1,8 +1,6 @@
 sidebar:
   logo:
-    title: Jᥱffr᧐ <i class="fa-regular fa-atom fa-spin"></i> # <i class="fa-solid fa-atom fa-spin"></i>
-    
-    # <i class="fa-brands fa-react fa-spin"></i> # <i class="fa-solid fa-gear fa-spin"></i> 
+    title: Jᥱffr᧐ <i class="fa-regular fa-atom fa-spin"></i>
 
   menu:
     post: '[<i class="fa-solid fa-house"></i>](/)'  # home  https://fontawesome.com/icons
