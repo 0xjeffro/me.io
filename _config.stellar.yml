@@ -54,19 +54,19 @@ comments:
 footer:
   social:
     github:
-      icon: '<img src="asserts/social/github2.svg"/>'
+      icon: '<img src="/asserts/social/github2.svg"/>'
       url: https://github.com/JeffroTanvik
     Telegram:
-      icon: '<img src="asserts/social/telegram-original.svg"/>'
+      icon: '<img src="/asserts/social/telegram-original.svg"/>'
       url: https://t.me/JeffroTanvik
     twitter:
-      icon: '<img src="asserts/social/twitter.svg"/>'
+      icon: '<img src="/asserts/social/twitter.svg"/>'
       url: https://twitter.com/JeffroTanvik
     # gmail:
     #   icon: '<img src="asserts/social/gmail.svg"/>'
     #   url: https://twitter.com/JeffroTanvik
     spotify:
-      icon: '<img src="asserts/social/spotify.svg"/>'
+      icon: '<img src="/asserts/social/spotify.svg"/>'
       url: https://open.spotify.com/playlist/37i9dQZF1DWZd79rJ6a7lp?si=b8374656777c4a00
     
   sitemap:
