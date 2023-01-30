@@ -11,7 +11,7 @@ search:
 search_blog:
   layout: search
   filter: /blog/ # auto or 'path'
-  placeholder: Search Blog
+  placeholder: Search Post
 
 search_docs:
   layout: search
