@@ -12,7 +12,7 @@ references:
     url: https://btcdayu.gitbook.io/dayu/cong-ming-de-tou-zi-zhe/di-yi-zhang-tou-zi-yu-tou-ji/2.-cang-wei-guan-li-he-bao-ben-zhuan-xi
 date: 2023-01-31 19:09:20
 url: what-is-usdt-zh
-cover: https://images.unsplash.com/photo-1626163015484-81fc7e3b90d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2532&q=80
+cover: /posts/what-is-usdt-zh/tether.jpg
 banner: crypto
 h1:
 categories:
