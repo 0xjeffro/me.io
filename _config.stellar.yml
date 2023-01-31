@@ -89,6 +89,33 @@ footer:
   content: | # 支持 Markdown 格式
     This site is created by [@Jeffro](/) using [Stellar](https://github.com/xaoxuu/hexo-theme-stellar) theme.
     The articles on this site are all licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), please cite if you intend to reproduce.
+    
+    </br>
+    <!--不蒜子计数器-->
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <!--添加一个访问量-->
+    <span>
+      <i class="fa-solid fa-compass fa-shake"></i> <span id="busuanzi_value_site_pv" style=""></span>&nbsp;&nbsp;<i class="fa-solid fa-ghost fa-fade"></i> <span id="busuanzi_value_site_uv" style=""></span>&nbsp;&nbsp;
+    </span>
+    <script type="text/javascript">
+    function show_runtime() {
+        window.setTimeout("show_runtime()", 1000);
+        X = new Date("1/15/2023 00:00:00");
+        Y = new Date();
+        T = (Y.getTime() - X.getTime());
+        M = 24 * 60 * 60 * 1000;
+        a = T / M;
+        A = Math.floor(a);
+        b = (a - A) * 24;
+        B = Math.floor(b);
+        c = (b - B) * 60;
+        C = Math.floor((b - B) * 60);
+        D = Math.floor((c - C) * 60);
+        runtime_span.innerHTML =  A + " : " + B + " : " + C + " : " + D
+    }
+    show_runtime();
+    </script>
+    <i class="fa-solid fa-gear fa-spin"></i> <span id="runtime_span"></span>
   # 主题用户越多，开发者维护和更新的积极性就越高，如果您喜欢本主题，请在适当的位置显示主题信息和仓库链接以表支持。
   source: '[GitHub](https://github.com/JeffroTanvik)'
 
