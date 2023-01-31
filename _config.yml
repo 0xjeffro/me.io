@@ -10,7 +10,7 @@ favicon: /asserts/rss.png
 avatar: /asserts/IMG_9850.JPG
 description: ''
 keywords:
-author: Jeffro
+author: Jᥱffr᧐
 language: en
 timezone: ''
 
@@ -43,7 +43,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
