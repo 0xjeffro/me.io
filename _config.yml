@@ -109,6 +109,7 @@ deploy:
 
 inject:
   head:
+    - <link href="https://cdn.jsdelivr.net/gh/duyplus/fontawesome-pro@6.1.1/css/all.min.css" rel="stylesheet" type="text/css">
     - <link href="https://cdn.staticaly.com/gh/hung1001/font-awesome-pro-v6/44659d9/css/all.min.css" rel="stylesheet" type="text/css" />
     # - <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     # - <link rel="stylesheet" href="https://kit.fontawesome.com/676d8a3bda.css" crossorigin="anonymous">
