@@ -11,8 +11,13 @@
             "id": "f48376dcbc8ba577",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/hello-world.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -43,7 +48,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "source/_posts/hello-world.md"
+              }
             }
           },
           {
@@ -107,7 +114,7 @@
       "code-files:Create Code File": false
     }
   },
-  "active": "d8238b2d83340e9e",
+  "active": "f48376dcbc8ba577",
   "lastOpenFiles": [
     "public/asserts/notes/cryptozombies.png",
     "public/asserts/notes/opensea.png",
@@ -133,7 +140,7 @@
     "public/notes/index.md",
     "public/about/index.md",
     "source/_posts/hello-world.md",
-    "source/_posts/illustrate-manacher-algorithm-zh.md",
+    "source/_drafts/illustrate-manacher-algorithm-zh.md",
     "source/about/index.md",
     "node_modules/hexo-livereload/README.md",
     "node_modules/tiny-lr/node_modules/ms/History.md",
