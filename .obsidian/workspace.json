@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "da4a5db8f1e01eaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bb3632435026124",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f899bd1b4f57caef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/hello-world.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25d88c14c6383398",
+    "type": "split",
+    "children": [
+      {
+        "id": "543c52f85dedc368",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41f6dcce8e9990a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "50992961a0f4f505",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/_posts/hello-world.md"
+              }
+            }
+          },
+          {
+            "id": "e7515af9262362e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dad8a0e2d66f6d43",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8b1d2c85a63f6c72",
+    "type": "split",
+    "children": [
+      {
+        "id": "325d39784d863cd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "343a9685090a4c43",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-jeffro.io",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 738.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "audio-recorder:开始/结束录音": false,
+      "templates:插入模板": false,
+      "obsidian-custom-frames:Open Jeffro.io": false
+    }
+  },
+  "active": "f899bd1b4f57caef",
+  "lastOpenFiles": [
+    "source/_posts/illustrate-manacher-algorithm-zh.md",
+    "source/about/index.md",
+    "source/_posts/hello-world.md",
+    "node_modules/hexo-livereload/lib/server.js",
+    "node_modules/hexo-livereload/lib",
+    "node_modules/hexo-livereload/LICENSE",
+    "node_modules/hexo-livereload/index.js",
+    "node_modules/hexo-livereload/package.json",
+    "node_modules/hexo-livereload/README.md",
+    "node_modules/tiny-lr/node_modules/ms/History.md",
+    "node_modules/tiny-lr/node_modules/ms/index.js",
+    "node_modules/tiny-lr/node_modules/ms/LICENSE",
+    "node_modules/tiny-lr/node_modules/ms/README.md",
+    "node_modules/tiny-lr/node_modules/ms/package.json",
+    "node_modules/livereload-js/lib/timer.js",
+    "node_modules/livereload-js/lib/protocol.js",
+    "node_modules/livereload-js/README.md",
+    "node_modules/iconv-lite/Changelog.md",
+    "node_modules/content-type/README.md",
+    "node_modules/faye-websocket/CHANGELOG.md",
+    "node_modules/content-type/HISTORY.md",
+    "node_modules/faye-websocket/README.md",
+    "node_modules/iconv-lite/README.md",
+    "node_modules/body-parser/node_modules/raw-body/node_modules/bytes/Readme.md",
+    "node_modules/body-parser/node_modules/raw-body/node_modules/bytes/History.md",
+    "node_modules/body-parser/node_modules/raw-body/README.md",
+    "node_modules/body-parser/node_modules/raw-body/HISTORY.md",
+    "node_modules/body-parser/node_modules/qs/README.md",
+    "node_modules/body-parser/node_modules/qs/CONTRIBUTING.md",
+    "node_modules/body-parser/node_modules/qs/CHANGELOG.md",
+    "node_modules/body-parser/node_modules/ms/README.md",
+    "node_modules/body-parser/node_modules/ms/History.md",
+    "node_modules/body-parser/node_modules/http-errors/README.md",
+    "node_modules/body-parser/node_modules/http-errors/HISTORY.md",
+    "node_modules/body-parser/node_modules/debug/Readme.md",
+    "node_modules/body-parser/node_modules/debug/History.md",
+    "source/_drafts/what-is-usdt-zh/tether.jpg",
+    "source/_posts/illustrate-manacher-algorithm-zh/2.png",
+    "source/_posts/illustrate-manacher-algorithm-zh/4.png",
+    "source/_posts/illustrate-manacher-algorithm-zh/5.png",
+    "source/_posts/illustrate-manacher-algorithm-zh/3.png",
+    "source/asserts/social/bxl-telegram.svg",
+    "source/asserts/notes/aws_logo.png",
+    "source/asserts/avatar0.jpg",
+    "source/asserts/avatar.png",
+    "source/asserts/avatar_new.jpg",
+    "未命名.canvas"
+  ]
+}

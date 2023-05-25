@@ -1,0 +1,16 @@
+{
+  "frames": [
+    {
+      "url": "http://localhost:4000/",
+      "displayName": "Jeffro.io",
+      "icon": "rss",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    }
+  ],
+  "padding": 5
+}

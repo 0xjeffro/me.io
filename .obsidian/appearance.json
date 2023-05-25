@@ -1,0 +1,15 @@
+{
+  "baseFontSize": 16,
+  "translucency": true,
+  "theme": "system",
+  "accentColor": "",
+  "cssTheme": "Things",
+  "interfaceFontFamily": "LXGW WenKai Screen",
+  "textFontFamily": "LXGW WenKai",
+  "nativeMenus": false,
+  "showViewHeader": false,
+  "enabledCssSnippets": [
+    "obsidian-default-theme"
+  ],
+  "baseFontSizeAction": false
+}
