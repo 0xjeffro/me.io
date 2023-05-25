@@ -80,11 +80,11 @@
     "type": "split",
     "children": [
       {
-        "id": "014b7669bb643ac5",
+        "id": "ff989e02df7c0677",
         "type": "tabs",
         "children": [
           {
-            "id": "33746242321f6915",
+            "id": "d8238b2d83340e9e",
             "type": "leaf",
             "state": {
               "type": "custom-frames-jeffro.io",
@@ -107,8 +107,14 @@
       "code-files:Create Code File": false
     }
   },
-  "active": "33746242321f6915",
+  "active": "d8238b2d83340e9e",
   "lastOpenFiles": [
+    "themes/stellar/source/js/plugins/copycode.js",
+    "themes/stellar/source/css/_plugins/mermaid.styl",
+    "themes/stellar/source/css/_layout/partial/ai_abstract.styl",
+    "themes/stellar/source/css/_plugins/copycode.styl",
+    "themes/stellar/layout/mermaid.ejs",
+    "themes/stellar/layout/_partial/main/article/ai_abstract.ejs",
     "themes/stellar/scripts/events/lib/doc_tree.js",
     "source/_posts/hello-world.md",
     "source/_posts/illustrate-manacher-algorithm-zh.md",
@@ -117,15 +123,9 @@
     "node_modules/hexo-livereload/lib",
     "node_modules/hexo-livereload/LICENSE",
     "node_modules/hexo-livereload/index.js",
-    "node_modules/hexo-livereload/package.json",
     "node_modules/hexo-livereload/README.md",
     "node_modules/tiny-lr/node_modules/ms/History.md",
-    "node_modules/tiny-lr/node_modules/ms/index.js",
-    "node_modules/tiny-lr/node_modules/ms/LICENSE",
     "node_modules/tiny-lr/node_modules/ms/README.md",
-    "node_modules/tiny-lr/node_modules/ms/package.json",
-    "node_modules/livereload-js/lib/timer.js",
-    "node_modules/livereload-js/lib/protocol.js",
     "node_modules/livereload-js/README.md",
     "node_modules/iconv-lite/Changelog.md",
     "node_modules/content-type/README.md",
