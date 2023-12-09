@@ -63,13 +63,13 @@ footer:
   social:
     github:
       icon: '<img src="/asserts/social/github2.svg"/>'
-      url: https://github.com/JeffroTanvik
+      url: https://github.com/0xjeffro
     Telegram:
       icon: '<img src="/asserts/social/telegram-original.svg"/>'
-      url: https://t.me/JeffroTanvik
+      url: https://t.me/JeffroBTC
     twitter:
       icon: '<img src="/asserts/social/twitter.svg"/>'
-      url: https://twitter.com/JeffroTanvik
+      url: https://twitter.com/JeffroBTC
     # gmail:
     #   icon: '<img src="asserts/social/gmail.svg"/>'
     #   url: https://twitter.com/JeffroTanvik
