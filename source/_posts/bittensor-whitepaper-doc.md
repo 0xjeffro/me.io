@@ -45,3 +45,7 @@ Bittensor生态系统由以下三个部分组成（见图1）
 	答：不一定，尽管子网的设定几乎能保证AI的各个细分场景都能去开辟一个子网，能够保证模型种类的多样性，但如上所述，每个子网中都有验证器给各个矿工打分，实际上如果激励策略设置的不合理，最终子网内部还是会导致赢家通吃的局面。
 4. “Bittensor已经服务了超过xx万亿模型参数，远超过了GPT的参数量。”，这种说法合理吗？
 	答：不合理。Bittensor运行了多个子网，每个子网的任务不同，模型架构不同，算总参数量没有任何意义。
+
+## 参考资料
+- [Bittensor Developer Documentation](https://docs.bittensor.com/learn/introduction)
+- [Bittensor Whitepaper](https://bittensor.com/whitepaper)
