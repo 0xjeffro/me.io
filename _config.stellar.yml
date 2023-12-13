@@ -23,10 +23,10 @@ sidebar:
 article:
   # 分类颜色
   category_color:
-    '新闻稿': '#DA0F47'
+    # '项目投研': '#DA0F47'
     'Keynote': '#03a9f4'
     # '奇思妙想': '#009688'
-    'web3': '#ff9800'
+    '项目投研': '#ff9800'
     'Tech Gas Station': '#4caf50'
     'Telegram机器人': '#4caf50'
     '博客主题': '#ffa000'
